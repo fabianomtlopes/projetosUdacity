@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+	
+  * What has been easy?
+	
+  * What has been difficult?
+	
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1- Aprendi a semântica da linguagem até este ponto. Fazer pesquisas para utilizar os elementos da linguagem e testá-los no validator.
+
+2- Neste momento, tudo foi fácil.
+
+3- Ainda não vi dificuldades.
+
+4- Bom, fiz uma análise (mais atenta que pude) do mockup, para evitar algum erro ou esquecimento sobre a formatação do artigo. Logo utilizei os conhecimentos mostrados até então e pesquisando sobre novos elementos no MDN. Após o término, fiz o teste no site validator.w3.org. Fiquei feliz e espero que esteja tudo certo.
